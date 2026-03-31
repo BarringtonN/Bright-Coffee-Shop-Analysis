@@ -7,6 +7,8 @@ Technology Stack & Architecture
 The project followed a structured data lifecycle using the following tools:
 Planning & Design: Miro was used to design the Data Flow & Architecture Diagram, outlining the data source, ETL pipeline, and storage.
 
+Tools: Databricks, Miro, Excel, Canva.
+
 Data Processing: Raw Excel data was converted to CSV and loaded into Databricks
 
 ETL & SQL: SQL was utilized for transformations, including calculating total_amount (unit_price * transaction_qty), casting data types, and creating time buckets and spending buckets.
